@@ -946,7 +946,8 @@
     </column>
     <column id="237" parent="231" name="pub_date">
       <Position>5</Position>
-      <DataType>varchar(20)|0s</DataType>
+      <DataType>date|0s</DataType>
+      <NotNull>1</NotNull>
       <ColumnKind>normal</ColumnKind>
     </column>
     <index id="238" parent="231" name="use_id">

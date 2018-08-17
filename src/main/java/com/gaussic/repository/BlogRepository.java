@@ -8,6 +8,8 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.sql.Date;
+
 @Repository
 public interface BlogRepository extends JpaRepository<BlogEntity, Integer> {
     // 修改博文操作
@@ -16,5 +18,5 @@ public interface BlogRepository extends JpaRepository<BlogEntity, Integer> {
     @Query("update BlogEntity blog set blog.title=:qTitle, blog.userByUseId.id=:qUserId," +
             " blog.content=:qContent, blog.pubDate=:qPubDate where blog.id=:qId")
     void updateBlog(@Param("qTitle") String title, @Param("qUserId") int userId, @Param("qContent") String content,
-                    @Param("qPubDate") String pubDate, @Param("qId") int id);
+                    @Param("qPubDate") Date pubDate, @Param("qId") int id);
 }

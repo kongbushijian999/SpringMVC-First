@@ -47,7 +47,7 @@
         </tr>
         <tr>
             <th>Publish Date</th>
-            <td>${blog.pubDate}</td>
+            <td><fmt:formatDate value="${blog.pubDate}" pattern="yyyy年MM月dd日"/></td>
         </tr>
     </table>
 </div>
