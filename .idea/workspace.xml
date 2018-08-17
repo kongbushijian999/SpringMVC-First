@@ -7,91 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64cd88e8-4cb4-45e2-a403-66351d56eea8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/d048293c-562a-4516-9074-74270f0b9c42.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newweb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/controller/BlogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/controller/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/model/BlogEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/model/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/repository/BlogRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addBlog.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogs.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/updateUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/userDetail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/users.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gaussic/controller/BlogController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gaussic/controller/MainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gaussic/model/BlogEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gaussic/model/UserEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gaussic/repository/BlogRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/gaussic/repository/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/controller/BlogController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/controller/MainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/model/BlogEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/model/UserEntity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/repository/BlogRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/repository/UserRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/activation-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/aspectjrt-1.8.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/byte-buddy-1.6.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/c3p0-0.9.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/classmate-1.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/hibernate-c3p0-5.2.17.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/hibernate-core-5.2.17.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/hibernate-entitymanager-5.2.17.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/jandex-2.0.3.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/javassist-3.22.0-GA.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/jaxb-api-2.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/jaxb-core-2.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/jaxb-impl-2.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/mysql-connector-java-5.1.39.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/slf4j-api-1.7.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-aop-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-beans-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-context-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-core-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-data-commons-2.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-data-jpa-2.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-expression-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-jcl-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-jdbc-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-orm-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-tx-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-web-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/lib/spring-webmvc-5.0.7.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/mvc-dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/addBlog.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/addUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/blogs.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/updateUser.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/userDetail.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/users.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogDetail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/updateBlog.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d048293c-562a-4516-9074-74270f0b9c42.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d048293c-562a-4516-9074-74270f0b9c42.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gaussic/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gaussic/model/BlogEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/model/BlogEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gaussic/repository/BlogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gaussic/repository/BlogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addBlog.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addBlog.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogs.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogs.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gaussic/controller/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gaussic/controller/BlogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/gaussic/model/BlogEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/gaussic/model/BlogEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/controller/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/controller/BlogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/model/BlogEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/classes/com/gaussic/model/BlogEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/addBlog.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/addBlog.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/blogs.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/newweb/WEB-INF/pages/admin/blogs.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -151,23 +81,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserRepository.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/repository/UserRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1078">
-              <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+            <state relative-caret-position="2266">
+              <caret line="103" column="15" lean-forward="true" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#831#832#0" expanded="true" />
@@ -180,8 +98,8 @@
       <file leaf-file-name="BlogController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/controller/BlogController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="241">
+              <caret line="47" column="45" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -189,20 +107,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addBlog.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addBlog.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addBlog.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+            <state relative-caret-position="92">
+              <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlogEntity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/model/BlogEntity.java">
+      <file leaf-file-name="updateBlog.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/updateBlog.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state relative-caret-position="990">
+              <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blogDetail.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogDetail.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="addUser.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addUser.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="45" column="74" lean-forward="true" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -210,8 +146,36 @@
       <file leaf-file-name="blogs.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogs.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="58" column="103" selection-start-line="58" selection-start-column="103" selection-end-line="58" selection-end-column="103" />
+            <state relative-caret-position="142">
+              <caret line="57" column="71" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/model/BlogEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="34" />
+              <folding>
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
+                <element signature="e#2106#2107#0" expanded="true" />
+                <element signature="e#2140#2141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserEntity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/model/UserEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+              <folding>
+                <element signature="e#2619#2620#0" expanded="true" />
+                <element signature="e#2651#2652#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -229,6 +193,17 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>admin</find>
+      <find>UserByUseId</find>
+      <find>userByUseId</find>
+      <find>userByUserId</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>userByUseId</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -244,15 +219,18 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gaussic/controller/test.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/userDetail.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/gaussic/repository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addUser.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/updateUser.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gaussic/repository/BlogRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gaussic/controller/MainController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/users.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/gaussic/model/BlogEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gaussic/model/blog.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogs.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gaussic/repository/BlogRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addUser.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addBlog.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogDetail.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/gaussic/controller/BlogController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/updateBlog.jsp" />
       </list>
     </option>
   </component>
@@ -321,13 +299,17 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,6 +342,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="gaussic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="newweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="newweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gaussic" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="newweb" type="b2602c69:ProjectViewProjectNode" />
@@ -466,7 +457,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -474,18 +464,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java100" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="ImportMappingsDialog.RecentPackages">
       <recent name="com.gaussic.model" />
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -742,11 +733,12 @@
       <workItem from="1534390609384" duration="4311000" />
       <workItem from="1534421999618" duration="79000" />
       <workItem from="1534422139431" duration="33000" />
+      <workItem from="1534476512240" duration="9647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100027000" />
+    <option name="totallyTimeSpent" value="109674000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -762,50 +754,86 @@
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.40242058" side_tool="true" weight="0.33169934" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.36913767" side_tool="true" weight="0.56792146" />
       <window_info anchor="bottom" id="Application Servers" order="13" sideWeight="0.49926794" weight="0.32843137" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.13464448" />
       <window_info anchor="bottom" id="Database Changes" order="10" weight="0.32843137" />
       <window_info id="Capture Tool" order="8" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="5" weight="0.26701966" />
+      <window_info anchor="right" id="Database" order="5" weight="0.10590015" />
       <window_info id="Structure" order="1" sideWeight="0.30882353" side_tool="true" weight="0.24130106" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32843137" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32843137" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="9" weight="0.32843137" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5975794" weight="0.22385621" />
+      <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.49924356" weight="0.15220949" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5431165" weight="0.24713585" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32843137" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32843137" />
-      <window_info id="Persistence" order="7" sideWeight="0.23395444" side_tool="true" weight="0.0688351" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7660456" visible="true" weight="0.21406959" />
+      <window_info id="Persistence" order="7" sideWeight="0.299509" side_tool="true" weight="0.18456884" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.700491" visible="true" weight="0.23676248" />
       <window_info id="Web" order="6" sideWeight="0.30882353" side_tool="true" weight="0.24130106" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.63086236" weight="0.17184943" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" sideWeight="0.30882353" side_tool="true" weight="0.24130106" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32843137" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32733223" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32843137" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -813,30 +841,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/model/BlogEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1474">
@@ -1021,7 +1025,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
-    <entry file="das://d048293c-562a-4516-9074-74270f0b9c42/schema/springdemo/table/blog" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/2345热点新闻.url" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/controller/test.java" />
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
@@ -1042,30 +1045,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
           <caret line="31" column="79" selection-start-line="31" selection-start-column="79" selection-end-line="31" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/repository/BlogRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/model/UserEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/repository/UserRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,24 +1083,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addUser.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/model/blog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+        <state relative-caret-position="-110">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#483#484#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d048293c-562a-4516-9074-74270f0b9c42/schema/springdemo/table/blog">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/repository/BlogRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/model/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#2619#2620#0" expanded="true" />
+            <element signature="e#2651#2652#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogs.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="103" selection-start-line="58" selection-start-column="103" selection-end-line="58" selection-end-column="103" />
+        <state relative-caret-position="142">
+          <caret line="57" column="71" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="61" column="35" selection-start-line="61" selection-start-column="35" selection-end-line="61" selection-end-column="35" />
+        <state relative-caret-position="2266">
+          <caret line="103" column="15" lean-forward="true" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#831#832#0" expanded="true" />
@@ -1130,27 +1154,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addUser.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="45" column="74" lean-forward="true" selection-start-line="45" selection-start-column="74" selection-end-line="45" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/model/BlogEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="176">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="34" />
+          <folding>
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
+            <element signature="e#2106#2107#0" expanded="true" />
+            <element signature="e#2140#2141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/blogDetail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addBlog.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gaussic/controller/BlogController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state relative-caret-position="241">
+          <caret line="47" column="45" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/addBlog.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/updateBlog.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="40" column="58" lean-forward="true" selection-start-line="40" selection-start-column="58" selection-end-line="40" selection-end-column="58" />
+        <state relative-caret-position="990">
+          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
         </state>
       </provider>
     </entry>

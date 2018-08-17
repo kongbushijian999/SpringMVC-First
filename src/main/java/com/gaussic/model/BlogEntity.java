@@ -1,8 +1,6 @@
 package com.gaussic.model;
 
-
 import javax.persistence.*;
-import java.util.Date;
 
 @Entity
 @Table(name = "blog", schema = "springdemo", catalog = "")
@@ -10,7 +8,7 @@ public class BlogEntity {
     private int id;
     private String title;
     private String content;
-    private Date pubDate;
+    private String pubDate;
     private UserEntity userByUseId;
 
     @Id
@@ -44,12 +42,12 @@ public class BlogEntity {
     }
 
     @Basic
-    @Column(name = "pub_date", nullable = false)
-    public Date getPubDate() {
+    @Column(name = "pub_date", nullable = true, length = 20)
+    public String getPubDate() {
         return pubDate;
     }
 
-    public void setPubDate(Date pubDate) {
+    public void setPubDate(String pubDate) {
         this.pubDate = pubDate;
     }
 

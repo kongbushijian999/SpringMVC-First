@@ -20,6 +20,8 @@
 
     <!-- 新 Bootstrap 核心 CSS 文件 -->
     <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
     <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
     <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
     <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
@@ -28,16 +30,15 @@
 <body>
 <div class="container">
     <h1>SpringMVC 添加博客</h1>
-    <hr>
-
+    <hr/>
     <form:form action="/admin/blogs/addP" method="post" modelAttribute="blog" role="form">
         <div class="form-group">
             <label for="title">Title:</label>
-            <input type="text" class="form-control" id="title" name="title" placeholder="Enter Title:">
+            <input type="text" class="form-control" id="title" name="title" placeholder="Enter Title:"/>
         </div>
         <div class="form-group">
-            <label for="userByUserId.id">Author:</label>
-            <select class="form-control" id="userByUserId.id" name="userByUserId.id">
+            <label for="userByUseId.id">Author:</label>
+            <select class="form-control" id="userByUseId.id" name="userByUseId.id">
                 <c:forEach items="${userList}" var="user">
                     <option value="${user.id}">${user.nickname}, ${user.firstName} ${user.lastName}</option>
                 </c:forEach>
@@ -47,16 +48,14 @@
             <label for="content">Content:</label>
             <textarea class="form-control" id="content" name="content" rows="3" placeholder="Please Input Content"></textarea>
         </div>
-
         <div class="form-group">
             <label for="pubDate">Publish Date:</label>
-            <input type="date" class="form-control" id="pubDate" name="pubDate"/>
+            <input type="text" class="form-control" id="pubDate" name="pubDate" placeholder="Enter Date:"/>
         </div>
         <div class="form-group">
             <button type="submit" class="btn btn-sm btn-success">提交</button>
         </div>
     </form:form>
-
 </div>
 </body>
 </html>
